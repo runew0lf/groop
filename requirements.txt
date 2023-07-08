@@ -6,3 +6,4 @@ onnxruntime-gpu
 insightface
 imageio
 pillow
+Gooey
